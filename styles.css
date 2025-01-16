@@ -222,7 +222,7 @@ a{
     width: 300px;
     display: inline-block;
     border: 4px ;
-    background-image: url(anjalic13.jpg);
+    visibility: hidden;
     background-size: cover;
     border-radius: 20px;
     margin: 50px;
